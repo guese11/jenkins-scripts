@@ -24,7 +24,7 @@ import ConfigParser
 import shlex
 
 from subprocess import check_call
-
+sleep 2
 JENKINS_URL = ""
 IGNORED = []
 
